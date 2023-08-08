@@ -3,7 +3,7 @@
 ## 👨 Bio
 
  - 👶 Born in 1994.
- - 👷 During the day, CTO at [Hyxos](https://www.hyxos.com/).
+ - 👷 During the day, CTO at [Hyxos](https://www.hyxos.com/). Ex-[Qwant](https://www.qwant.com/).
  - 💻 During the night, hacker.
 
 ## 🎇 Cool Open Source things I work on
