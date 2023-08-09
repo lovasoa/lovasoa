@@ -21,8 +21,6 @@
 
 ## Star History
 
-## Star History
-
 <a href="https://star-history.com/#lovasoa/dezoomify-rs&lovasoa/sqlpage&lovasoa/whitebophir&lovasoa/dezoomify&Date">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lovasoa/whitebophir,lovasoa/dezoomify-rs,lovasoa/sqlpage,lovasoa/dezoomify&type=Date&theme=dark" />
