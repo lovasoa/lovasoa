@@ -11,7 +11,7 @@
 
  - [**sql.js**](https://github.com/sql-js/sql.js) the number 1 embedded frontend database. 🏆
  - [**Dezoomify**](https://dezoomify.ophir.dev/) is a zoomable image downloader. Museums often try to prevent people from downloading high-quality public domain images from their websites. Dezoomify downloads them anyway. 🦾
- - [**SQLPage**](https://sql.ophir.dev/) is to my knowledge the only SQL application server on the web. It allows you to build entire dynamic web applications in just a few standard database queries. Honestly, if you have a cool web app idea, or an old spreadheet you want to turn into a real website, try it ! Compared to most web dev tooling, it's refreshing 🍋
+ - [**SQLPage**](https://sql-page.com/) is to my knowledge the only SQL application server on the web. It allows you to build entire dynamic web applications in just a few standard database queries. Honestly, if you have a cool web app idea, or an old spreadheet you want to turn into a real website, try it ! Compared to most web dev tooling, it's refreshing 🍋
  - [**WBO**](https://wbo.ophir.dev/) is an online collaborative drawing tool. Translated in 15+ languages. It's consistently ranked among the top 5 most popular online whiteboards in Russia *AND* in Ukraine. 🇺🇦🕊️
 
 ## 🌐 Tech interests
