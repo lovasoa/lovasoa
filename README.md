@@ -2,10 +2,8 @@
 
 ## 👨 Bio
 
- - 👶 Born in 1994.
- - 🥐 Based in Paris.
- - 👷 During the day, CTO at [Hyxos](https://www.hyxos.com/). Ex-[Qwant](https://www.qwant.com/).
- - 💻 During the night, hacker.
+Born in 1994, based in Paris.
+I write code @DataDog and develop @SQLPage and other open source projects. 
 
 ## 🎇 Cool Open Source things I work on
 
