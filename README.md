@@ -3,7 +3,7 @@
 ## 👨 Bio
 
 Born in 1994, based in Paris.
-I write code @DataDog and develop @SQLPage and other open source projects. 
+I write code @ [DataDog](https://datadoghq.com) and develop [SQLPage](https://sql-page.com) and other open source projects. 
 
 ## 🎇 Cool Open Source things I work on
 
